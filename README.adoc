@@ -1,0 +1,12 @@
+= First Church of the Manda
+cyotee <cyotee@gmail.com>
+V0.1 2020-02-19
+
+:homepage:
+:toc:
+
+Mandalorians are the adherents of the Creed of the Manda.
+The Manda being existence embodied in the continual conflict to survive.
+We thank the Manda for showing where we are weak, and how we must improve to be strong.
+
+include::creeds/first_creed.adoc[]

@@ -1,12 +1,7 @@
 = The Creeds of the Manda
-cyotee <cyotee@gmail.com>
-V0.1 2020-02-19
-
-:toc:
-:homepage:
 
 == Creed 1:1
-
+....
 In the beginning, the Manda was unified and formless.
 Without differentiation or distinction.
 Mired in stagnation.
@@ -22,7 +17,8 @@ The Manda introduced positive change.
 By dividing itself into a multiplicity of forces and forms, life was born.
 Life that was part of, but distinct from the Manda.
 Life that could face the challenges the Manda would bless upon them.
-In facing these challenges, Life would have the opportunity to improve themselves.
+The Magnum Certamen, the grand tournament.
+Through the Magnum Certamen, Life will improve.
 As part of the Manda, by improving themselves, Life would also improve the Manda.
 Thus returning the blessing of positive change to spawn growth.
 
@@ -35,3 +31,4 @@ We, the Mandalorians, thank the Manda for its' blessings of conflict and change.
 We, the Mandalorians, respect the divine sovereignty of Life to effect positive change.
 We, the Mandalorians, are blessed with Life to effect change.
 We, the Mandalorians, will return this blessing a thousand fold upon the Manda.
+....
